@@ -8,5 +8,26 @@ Apple AppStore link:
 
 https://apps.apple.com/tw/app/attorneytech/id6473744025
 
+AttorneyTech 是專門為法律工作者(尤其是訴訟律師)設計的 mobile app，讓案件管理變得更簡單。主要功能包括：
 
-**AttorneyTech** was designed for lawyers, integrates Apple's Vision, EventKit, and Core Location frameworks to streamline court appointment scheduling. The Vision Framework's OCR technology efficiently scans legal documents, extracting critical information. This data is seamlessly integrated into the Apple Calendar using EventKit, facilitating easy addition of court dates. Core Location's intelligent scheduling feature then assesses the proximity of scheduled court appointments, alerting lawyers to any potential time conflicts due to travel between locations. This integration aids lawyers in efficiently managing their court appearances and optimizing their schedules.
+1. 使用蘋果的 Vision 框架
+   這個功能通過光學字符識別（OCR）技術，能夠快速掃描開庭通知，將案件加入 Apple Calendar。
+2. 整合到 Apple Calendar
+   透過 EventKit，律師可以方便地將法庭日期添加到蘋果日曆中。
+3. 利用 Core Location 避免衝庭
+   AttorneyTech 會評估各個開庭行程的地理位置，幫助律師避免因行程安排重疊而造成的時間衝突。
+
+AttorneyTech 讓律師能夠更高效地管理他們的法庭出庭時間，優化日程安排。
+
+AttorneyTech is a tool specifically designed for lawyers, integrating several of Apple's advanced technologies to simplify court appointment scheduling. Its key features include:
+
+1. Apple's Vision Framework
+   Utilizes Optical Character Recognition (OCR) technology to quickly scan legal documents and automatically extract crucial information.
+2. Integration with Apple Calendar
+   Through EventKit, lawyers can easily add court dates to their Apple Calendar.
+3. Intelligent Scheduling with Core Location
+   Assesses the geographical proximity of scheduled court appointments to help lawyers avoid potential time conflicts due to overlapping travel schedules.
+   
+In short, AttorneyTech helps lawyers manage their court appearances more efficiently and optimize their schedule.
+
+
