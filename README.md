@@ -8,6 +8,9 @@ Apple AppStore link:
 
 https://apps.apple.com/tw/app/attorneytech/id6473744025
 
+![image](https://github.com/arieshsieh0402/Portfolio/assets/89285959/113f08c4-dff1-46eb-9a3e-37073c6bf755)
+
+
 AttorneyTech 是專門為法律工作者(尤其是訴訟律師)設計的 mobile app，讓案件管理變得更簡單。主要功能包括：
 
 1. 使用蘋果的 Vision 框架
