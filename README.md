@@ -33,4 +33,8 @@ AttorneyTech is a tool specifically designed for lawyers, integrating several of
    
 In short, AttorneyTech helps lawyers manage their court appearances more efficiently and optimize their schedule.
 
+## React side projects
+
+### Infinity Snap
+
 
