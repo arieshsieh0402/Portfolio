@@ -37,4 +37,9 @@ In short, AttorneyTech helps lawyers manage their court appearances more efficie
 
 ### Infinity Snap
 
+<img src="https://github.com/arieshsieh0402/Portfolio/assets/89285959/3481aff7-e75e-4024-94d1-578a7b4bd0bf" width="24%">
+<img src="https://github.com/arieshsieh0402/Portfolio/assets/89285959/ee006667-4b85-40f5-87e7-2cb68ee5d494" width="25%">
+<img src="https://github.com/arieshsieh0402/Portfolio/assets/89285959/64e7e328-55e9-421c-8f11-cef9579f5fb0" width="24%">
+<img src="https://github.com/arieshsieh0402/Portfolio/assets/89285959/8d89ad8a-4020-41b4-861a-b2a3add7484b" width="25%">
+
 
