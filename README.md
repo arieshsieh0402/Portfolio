@@ -43,3 +43,17 @@ In short, AttorneyTech helps lawyers manage their court appearances more efficie
 <img src="https://github.com/arieshsieh0402/Portfolio/assets/89285959/8d89ad8a-4020-41b4-861a-b2a3add7484b" width="25%">
 
 
+**專案概覽:**
+
+- Infinity Snap 幫助玩家在遊玩 Snap卡牌遊戲時預測對手可能出的牌，並推測對手的牌組。
+- 目標是提供玩家即時的數據分析，幫助他們在遊戲中做出更明智的出牌決策。
+
+**我的角色與技術責任:**
+
+- 使用 React 進行前端開發。
+  - 使用 CSS-Modules 進行模組化的樣式設計，確保樣式的可維護性和擴展性。
+  - 運用React Hooks，實現 components 的狀態管理和生命週期控制。
+  - 利用Context API 來管理跨 components 的狀態共享和數據流。
+
+- 與後端工程師密切合作，確保前後端的無縫整合。
+- 與 UI/UX 設計師合作，實現直觀且吸引人的用戶體驗。
