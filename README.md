@@ -52,8 +52,8 @@ In short, AttorneyTech helps lawyers manage their court appearances more efficie
 
 - 使用 React 進行前端開發。
   - 使用 CSS-Modules 進行模組化的樣式設計，確保樣式的可維護性和擴展性。
-  - 運用React Hooks，實現 components 的狀態管理和生命週期控制。
-  - 利用Context API 來管理跨 components 的狀態共享和數據流。
+  - 運用 React Hooks，實現 components 的狀態管理和生命週期控制。
+  - 利用 Context API 來管理跨 components 的狀態共享和數據流。
 
 - 與後端工程師密切合作，確保前後端的無縫整合。
 - 與 UI/UX 設計師合作，實現直觀且吸引人的用戶體驗。
